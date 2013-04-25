@@ -1,0 +1,26 @@
+Cryptocoin.se's BTC-e watcher
+C# tool to monitor and notify about currency changes at btc-e.com.
+
+Supported:
+BTC / USD
+LTC / BTC
+LTC / USD
+
+- Sound notification on increasing and/or decreasing price 
+- Email notifications at custom high/low limits
+
+Version: 1.0
+
+This project has two dependencies:
+1. BtceApi		https://github.com/DmT021/BtceApi
+2. Newtonsoft.Json	https://github.com/JamesNK/Newtonsoft.Json
+
+Created by cryptocoin.se
+Support us by donating to any of the following addresses:
+
+BTC: 1theQKemZF7oVvLA6XqBmbETZzhv3nGbQ
+LTC: LPDh32vUzow1o5zUjZVZKHN2fR6PHmv9bN
+NMC: NHqH4qHYmpgPD4csiZqwcpAENfdEKnARQ2
+PPC: PJcR5sM73qC1WfU8xsymU3Z3LcCHHHu1tn
+TRC: 1J3p8qAjvji7eFdc8BtGmhpGZxSY587hii
+NVC: 4UiGksFB9yqR133pdGY7A15Cu8BeLBUGFS
